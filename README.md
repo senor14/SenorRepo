@@ -1,1 +1,1 @@
-# senotRepo
+# SenorRepo
