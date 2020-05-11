@@ -1,13 +1,11 @@
 import java.util.*;
-
-public class Codeup1030 {
+public class Codeup1031 {
 
 	public static void main(String[] args) {
 		Scanner scn = new Scanner(System.in);
-		long a = scn.nextLong();
-		System.out.println(a);
+		int a = scn.nextInt();
+		System.out.printf("%o",a);
 
 	}
 
 }
-
