@@ -9,6 +9,7 @@ public class KAKAO_Claw_Crane_Game_64061 {
 		int[] moves1 = {1,5,3,5,1,2,1,4}; 
 		int result = sol.solution(board1, moves1);
 		System.out.println(result);
+		
 	}
 
 }
