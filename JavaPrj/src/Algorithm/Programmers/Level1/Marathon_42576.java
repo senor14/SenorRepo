@@ -8,7 +8,6 @@ public class Marathon_42576 {
 		Straggler sol = new Straggler();
 		String[] participant1 = {"leo", "kiki", "eden"};
 		String[] completion1 = {"eden", "kiki"};
-		// test-case 
 		// participant: "leo", "kiki", "eden" 
 		//				/ "marina", "josipa", "nikola", "vinko", "filipa"
 		//				/ "mislav", "stanko", "mislav", "ana"
@@ -18,6 +17,8 @@ public class Marathon_42576 {
 		// return: "leo"  / "vinko" / "vinko"
 		String result = sol.solution(participant1, completion1);
 		System.out.println(result);
+
+		
 	}
 
 }
