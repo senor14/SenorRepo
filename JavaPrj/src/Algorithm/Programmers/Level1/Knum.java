@@ -19,7 +19,7 @@ public class Knum {
 			else
 			System.out.println(", " + result[i] + "]");
 		}
-	}
+	} 
 
 }
 
