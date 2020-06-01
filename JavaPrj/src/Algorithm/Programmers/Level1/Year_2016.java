@@ -1,6 +1,6 @@
 package Algorithm.Programmers.Level1;
 
-public class year_2016 {
+public class Year_2016 {
 
 	public static void main(String[] args) {
 		
