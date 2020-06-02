@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Middle_Character {
+public class Middle_Character_12903 {
 
 	public static void main(String[] args) {
 		

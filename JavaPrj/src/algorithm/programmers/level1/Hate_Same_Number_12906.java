@@ -1,7 +1,7 @@
 package algorithm.programmers.level1;
 import java.util.*;
 
-public class Hate_Same_Number {
+public class Hate_Same_Number_12906 {
 
 	public static void main(String[] args) {
 		

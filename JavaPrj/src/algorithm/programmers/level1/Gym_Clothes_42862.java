@@ -3,7 +3,7 @@ package algorithm.programmers.level1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Gym_Clothes {
+public class Gym_Clothes_42862 {
 
 	public static void main(String[] args) {
 

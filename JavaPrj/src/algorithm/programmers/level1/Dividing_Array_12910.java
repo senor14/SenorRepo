@@ -1,7 +1,7 @@
 package algorithm.programmers.level1;
 import java.util.*;
 
-public class Dividing_Array {
+public class Dividing_Array_12910 {
 
 	public static void main(String[] args) {
 		

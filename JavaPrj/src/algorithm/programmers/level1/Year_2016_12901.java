@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Year_2016 {
+public class Year_2016_12901 {
 
 	public static void main(String[] args) {
 		

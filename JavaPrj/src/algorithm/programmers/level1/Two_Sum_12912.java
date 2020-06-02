@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Two_Sum {
+public class Two_Sum_12912 {
 
 	public static void main(String[] args) {
 

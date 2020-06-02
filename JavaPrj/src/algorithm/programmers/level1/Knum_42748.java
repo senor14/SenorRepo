@@ -1,7 +1,7 @@
 package algorithm.programmers.level1;
 import java.util.*;
 
-public class Knum {
+public class Knum_42748 {
 
 	public static void main(String[] args) {
 		
