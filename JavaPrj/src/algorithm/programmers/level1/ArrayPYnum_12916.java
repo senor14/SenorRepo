@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Arraypynum {
+public class ArrayPYnum_12916 {
 
 	public static void main(String[] args) {
 		
