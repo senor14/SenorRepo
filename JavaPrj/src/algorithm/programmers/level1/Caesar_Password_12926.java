@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Caesar_Password {
+public class Caesar_Password_12926 {
 
 	public static void main(String[] args) {
 		
