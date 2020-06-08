@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Measure_Sum {
+public class Measure_Sum_12928 {
 
 	public static void main(String[] args) {
 
