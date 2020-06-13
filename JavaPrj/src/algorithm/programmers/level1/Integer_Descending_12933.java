@@ -2,7 +2,7 @@ package algorithm.programmers.level1;
 
 import java.util.*;
 
-public class Integer_Descending {
+public class Integer_Descending_12933 {
 
 	public static void main(String[] args) {
 
