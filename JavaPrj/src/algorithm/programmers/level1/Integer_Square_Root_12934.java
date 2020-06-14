@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Integer_Square_Root {
+public class Integer_Square_Root_12934 {
 
 	public static void main(String[] args) {
 		Integersquareroot isr = new Integersquareroot();
