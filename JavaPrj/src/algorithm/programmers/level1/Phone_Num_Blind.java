@@ -1,7 +1,6 @@
 package algorithm.programmers.level1;
 
 public class Phone_Num_Blind {
-
 	public static void main(String[] args) {
 		
 		Phonenumblind pnb = new Phonenumblind();
@@ -10,7 +9,6 @@ public class Phone_Num_Blind {
 		System.out.println(result);
 
 	}
-
 }
 
 class Phonenumblind {
