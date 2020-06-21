@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Phone_Num_Blind {
+public class Phone_Num_Blind_12948 {
 	public static void main(String[] args) {
 		
 		Phonenumblind pnb = new Phonenumblind();
