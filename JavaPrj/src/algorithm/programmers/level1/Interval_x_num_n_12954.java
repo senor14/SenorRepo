@@ -2,7 +2,7 @@ package algorithm.programmers.level1;
 
 import java.util.Arrays;
 
-public class Interval_x_num_n {
+public class Interval_x_num_n_12954 {
 
 	public static void main(String[] args) {
 		
