@@ -16,6 +16,5 @@ public class Rectangle_Star {
             }
             System.out.println();
         }
-
     }
 }
