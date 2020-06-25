@@ -31,7 +31,6 @@ class Secretmap {
 			{
 				answer[i] = " " + answer[i];
 			}
-			
 		}
         return answer;
     }
