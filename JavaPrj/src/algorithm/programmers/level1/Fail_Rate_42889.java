@@ -2,7 +2,7 @@ package algorithm.programmers.level1;
 
 import java.util.*;
 
-public class Fail_Rate {
+public class Fail_Rate_42889 {
 
 	public static void main(String[] args) {
 
