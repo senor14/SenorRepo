@@ -1,6 +1,6 @@
 package algorithm.programmers.level1;
 
-public class Collatz_Conjecture {
+public class Collatz_Conjecture_12943 {
 
 	public static void main(String[] args) {
 		Collatzconjecture cc = new Collatzconjecture();
