@@ -1,9 +1,9 @@
 package algorithm.programmers.level1;
 
-public class Average {
+public class Average_12944 {
 
 	public static void main(String[] args) {
-		Aver av = new Aver();
+		Average av = new Average();
 		int[] arr1 = {1,2,3,4};
 		double result = av.solution(arr1);
 		System.out.println(result);
@@ -12,7 +12,7 @@ public class Average {
 
 }
 
-class Aver {
+class Average {
     public double solution(int[] arr) {
         double answer = 0;
         int sum = 0;
