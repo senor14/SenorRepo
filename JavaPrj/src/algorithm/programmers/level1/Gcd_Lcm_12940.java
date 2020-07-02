@@ -2,7 +2,7 @@ package algorithm.programmers.level1;
 
 import java.util.Arrays;
 
-public class Gcd_Lcm {
+public class Gcd_Lcm_12940 {
 
 	public static void main(String[] args) {
 
