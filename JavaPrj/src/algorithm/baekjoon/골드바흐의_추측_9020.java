@@ -36,5 +36,4 @@ public class °ñµå¹ÙÈåÀÇ_ÃßÃø_9020 {
             System.out.println(temp + " " + (n-temp));
         }
     }
-
 }
