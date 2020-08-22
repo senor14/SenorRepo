@@ -17,7 +17,7 @@ public class DBConn {
 	public static Connection getDBConnection() throws SQLException {
 		
 		Connection conn = null;
-		String url = "jdbc:oracle:thin:@localhost:1521:orcl";
+		String url = "jdbc:oracle:thin:@localhost:1521:xe";
 		
 		String user = "myuser";
 		String passwd = "1234";
