@@ -76,7 +76,7 @@ public class PrintUserInfo {
 			System.out.println("회원이름(user_nm : " + rMap.get("user_nm"));
 			System.out.println("이메일(email) : " + rMap.get("email"));
 			System.out.println("주소(addr) : " + rMap.get("addr"));
-			System.out.println("가입일(reg_dt : " + rMap.get("reg_dt"));
+			System.out.println("가입일(reg_dt) : " + rMap.get("reg_dt"));
 			System.out.println("-------------------------");
 			
 			// 사용이 끝나면 메모리 비우기
