@@ -9,9 +9,9 @@ public class DBTest {
 	public static void main(String[] args) throws SQLException {
 		
 		Connection conn = null;
-		String url = "jdbc:oracle:thin:@localhost:1521:orcl";
+		String url = "jdbc:oracle:thin:@localhost:1521:xe";
 		
-		String user = "myuser";
+		String user = "Senor";
 		String passwd = "1234";
 		
 		try {
